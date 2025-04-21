@@ -1,4 +1,4 @@
-/* src/app/globals.css */
+/* src/app/globals.css
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
@@ -62,4 +62,4 @@
   
   .page-transition {
     @apply transition-all duration-300 ease-in-out;
-  }
+  } */

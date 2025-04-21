@@ -2,7 +2,7 @@
 
 import { useEffect } from "react";
 import { motion } from "framer-motion";
-import { Button } from "@/components/ui/button";
+// import { Button } from "@/components/ui/button";
 import { ArrowRight, Download } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
